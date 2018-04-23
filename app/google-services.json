@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "250532577374",
+    "firebase_url": "https://sporthee-8e5e3.firebaseio.com",
+    "project_id": "sporthee-8e5e3",
+    "storage_bucket": "sporthee-8e5e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250532577374:android:a8ede33e86d0a816",
+        "android_client_info": {
+          "package_name": "com.example.prabowo.sporthee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250532577374-0jb8cvfjoftqkeabv38iddekdnv4ego8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prabowo.sporthee",
+            "certificate_hash": "370c23d8b04c50a7dd1a2ee26a15d7254db4928a"
+          }
+        },
+        {
+          "client_id": "250532577374-2871pb62lavd4fevspi4ptects2ion96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsoqkpV0mS9HNToW6v5hmhMq0IQ-dxb70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250532577374-2871pb62lavd4fevspi4ptects2ion96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
